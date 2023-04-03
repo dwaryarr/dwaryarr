@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Dwi Arya and I'm a Student, from Indonesia!</h2>
+<h2 align="center">Hi 👋! My name is Arya, from Indonesia!</h2>
 
 <h3 align="center">My Portfolio : <a href="https://dwaryarr.github.io/" target="_blank">https://dwaryarr.github.io</a></h3>
 

@@ -50,4 +50,4 @@
 ###
 <br>
 <hr>
-<h3 align="center">德瓦亚尔</h5>
+<h3 align="center">痛苦让你更坚强 - 德瓦亚尔</h5>

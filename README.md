@@ -58,4 +58,5 @@
 ###
 <br>
 <hr>
-<h3 align="center">痛苦让你更坚强 and 浮生如梦亦如烟，只记花开不记年 - 德瓦亚尔</h3>
+<!-- <h3 align="center">痛苦让你更坚强 and 浮生如梦亦如烟，只记花开不记年 - 德瓦亚尔</h3> -->
+<h3 align="center">SELAMAT / SUKSES - 德瓦亚尔</h3>
